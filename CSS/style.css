@@ -1,0 +1,21 @@
+html. {
+    margin: 0;
+    max-width: 1440px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 700px;
+    height: 700px;
+    background-color: aqua;
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns: 20%,20%,20%,20%,20%;
+    grid-template-rows: 20%,20%,20%,20%,20%;
+}
+.dogs {
+    box-sizing: border-box;
+    
+}
